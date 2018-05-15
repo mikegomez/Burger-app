@@ -1,5 +1,5 @@
 // Import the MySQL connection object
-var connection = require ('./connection.js');
+var connection = require ('./connection');
 
 // Helper function for generating MySQL syntax
 function printQuestionMarks(num) {
