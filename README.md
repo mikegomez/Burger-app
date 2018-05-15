@@ -4,11 +4,11 @@ The Burger app is an app that lets the user add burgers to a list and gives the 
 
 
 Technologies used:
-Node
-Express
-SQL
-Sequelize
-Handlebars
+Node<br>
+Express<br>
+SQL<br>
+Sequelize<br>
+Handlebars<br>
 CSS
 
 
